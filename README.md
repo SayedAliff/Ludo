@@ -10,7 +10,7 @@ This is an implementation of the classic board game Ludo. Play with friends loca
   - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+
 
 
 ---
